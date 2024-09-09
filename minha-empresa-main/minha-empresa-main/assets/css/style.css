@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: aliceblue;
+}
+
+.cabecalho ul{
+    display: flex;
+    gap: 20px;
+
+}
